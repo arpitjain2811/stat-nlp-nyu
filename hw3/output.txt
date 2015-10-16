@@ -3525,6 +3525,23 @@ closing	NN
 arguments	NNS
 .	.
 
+"	NNP
+He	PRP
+left	VBD
+a	DT
+message	NN
+for	IN
+everyone	NN
+to	TO
+see	VB
+...	:
+maybe	RB
+to	IN
+God	NNP
+himself	PRP
+.	.
+"	NNP
+
 After	IN
 the	DT
 sentencing	NN
@@ -8085,6 +8102,7 @@ ye	VB
 know	VB
 them	PRP
 .	.
+"	"
 
 I	PRP
 do	VBP
@@ -15628,6 +15646,7 @@ slowest	JJS
 to	TO
 recover	VB
 .	.
+"	"
 
 That	IN
 he	PRP
@@ -16305,6 +16324,9 @@ are	VBP
 local	JJ
 .	.
 
+.	.
+.	.
+.	.
 Murph	NNP
 Archibald	NNP
 is	VBZ
@@ -18832,6 +18854,7 @@ years	NNS
 to	TO
 come	VB
 .	.
+]	IN
 
 DPA	NNP
 :	:
@@ -20048,6 +20071,7 @@ Accident	NNP
 Lessons	NNS
 learned	VBN
 which	WDT
+.	.
 contradict	VBP
 the	DT
 earlier	JJR
@@ -21344,4 +21368,3 @@ and	CC
 process	NN
 mis-matches	NNS
 .	.
-
