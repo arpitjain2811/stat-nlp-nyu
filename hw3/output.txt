@@ -7700,8 +7700,8 @@ Order	NNP
 I	PRP
 ca	MD
 n't	RB
-believe	VB
-there	EX
+believe	VBP
+there	RB
 are	VBP
 no	DT
 serious	JJ
@@ -7709,7 +7709,7 @@ metal	NN
 fans	NNS
 who	WP
 frequent	JJ
-RI	NNP
+RI	NN
 .	.
 
 I	PRP
@@ -10917,9 +10917,9 @@ there	RB
 ,	,
 since	IN
 local	JJ
-Sunnis	NNS
-either	RB
-remain	VBP
+Sunnis	NNP
+either	CC
+remain	VB
 committed	VBN
 to	IN
 Arab	JJ
@@ -10930,7 +10930,7 @@ become	VBN
 Sunni	NNP
 fundamentalists	NNS
 or	CC
-even	RB
+even	JJ
 radicals	NNS
 .	.
 
@@ -11343,12 +11343,12 @@ claimed	VBD
 
 Xinhua	NNP
 alleged	VBD
-that	DT
-"	JJ
+that	IN
+"	CD
 Many	JJ
 of	IN
 the	DT
-Iraqis	NNPS
+Iraqis	NNP
 ,	,
 who	WP
 suffer	VBP
@@ -11373,7 +11373,7 @@ the	DT
 Israeli	JJ
 occupation	NN
 .	.
-"	NN
+"	NNP
 
 In	IN
 an	DT
@@ -13384,12 +13384,12 @@ Web	NNP
 posted	VBD
 at	IN
 :	:
-3:29	CD
+3:29	JJ
 p.m.	NN
-EST	NN
+EST	NNP
 (	(
-2029	FW
-GMT	FW
+2029	CD
+GMT	NNP
 )	)
 
 WASHINGTON	NNP
@@ -15771,8 +15771,8 @@ not	RB
 only	RB
 did	VBD
 Bush	NNP
-slack	VB
-off	RP
+slack	NN
+off	NN
 on	IN
 his	PRP$
 National	NNP
@@ -17387,13 +17387,13 @@ the	DT
 5,000	CD
 -	HYPH
 strong	JJ
-"	FW
-55th	FW
-Brigade	FW
-"	FW
+"	JJ
+55th	JJ
+Brigade	NNP
+"	NNP
 of	IN
 the	DT
-Taliban	NNP
+Taliban	JJ
 regime	NN
 ,	,
 though	IN
@@ -17939,10 +17939,10 @@ to	TO
 take	VB
 part	NN
 with	IN
-"	JJ
-raiding	JJ
+"	CD
+raiding	NN
 forces	NNS
-"	VBP
+"	NN
 in	IN
 the	DT
 assault	NN
@@ -18556,8 +18556,8 @@ satire	NN
 on	IN
 Fallujah	NNP
 ,	,
-see	VBP
-Unconfirmed	VBN
+see	VB
+Unconfirmed	JJ
 Sources	NNS
 which	WDT
 has	VBZ
@@ -18565,7 +18565,7 @@ some	DT
 fun	NN
 with	IN
 my	PRP$
-Weblog	NN
+Weblog	NNP
 .	.
 
 [	NNP
