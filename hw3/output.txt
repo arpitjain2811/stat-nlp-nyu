@@ -5999,7 +5999,7 @@ marvelous	JJ
 intoxicating	NN
 .	.
 
--	:
+-	HYPH
 Simone	NNP
 Weil	NNP
 
@@ -8277,9 +8277,9 @@ respect	NN
 for	IN
 people	NNS
 who	WP
-adhear	RB
-to	IN
-non-violence	JJ
+adhear	VBP
+to	TO
+non-violence	VB
 ,	,
 forgiveness	NN
 ,	,
@@ -8296,7 +8296,7 @@ that	IN
 Christians	NNS
 (	(
 or	CC
-'	``
+'	POS
 Smartwolves	NNP
 '	POS
 )	)
@@ -10635,11 +10635,11 @@ Ronald	NNP
 Reagan	NNP
 .	.
 
-Of	IN
-course	NN
+Of	RB
+course	RB
 ,	,
 the	DT
-sooner	RB
+sooner	RBR
 the	DT
 US	NNP
 soldiers	NNS
@@ -10649,7 +10649,7 @@ withdrawn	VBN
 in	IN
 favor	NN
 of	IN
-less	JJR
+less	RBR
 -	HYPH
 provocative	JJ
 local	JJ
@@ -12925,8 +12925,8 @@ is	VBZ
 inevitable	JJ
 that	IN
 most	JJS
-Iraqi	NNP
-Shiites	NNP
+Iraqi	JJ
+Shiites	NNS
 will	MD
 side	VB
 with	IN
@@ -12946,9 +12946,9 @@ Shiites	NNP
 will	MD
 get	VB
 rich	JJ
-enough	NN
+enough	RB
 from	IN
-Iraqi	NNP
+Iraqi	JJ
 petroleum	NN
 sales	NNS
 in	IN
@@ -15045,8 +15045,8 @@ you	PRP
 could	MD
 possibly	RB
 pull	VB
-off	IN
-such	JJ
+off	RP
+such	PDT
 an	DT
 operation	NN
 without	IN
@@ -19013,10 +19013,10 @@ It	PRP
 reminds	VBZ
 me	PRP
 too	RB
-much	JJ
+much	RB
 of	IN
 the	DT
-ARVN	NN
+ARVN	NNP
 officers	NNS
 who	WP
 were	VBD
