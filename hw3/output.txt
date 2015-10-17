@@ -204,22 +204,22 @@ they	PRP
 hear	VBP
 a	DT
 company	NN
-who's	NNS
-stated	JJ
+who's	VBZ
+stated	VBN
 goals	NNS
 include	VBP
 "	PRP
 Do	VBP
 n't	RB
 be	VB
-evil	NN
+evil	JJ
 ,	,
-"	IN
+"	JJ
 they	PRP
-imagine	VB
+imagine	VBP
 a	DT
 company	NN
-who's	NNS
+who's	VBZ
 eventually	RB
 history	NN
 will	MD
@@ -230,7 +230,7 @@ n't	RB
 be	VB
 profitable	JJ
 .	.
-"	NNP
+"	JJ
 
 It	PRP
 's	VBZ
@@ -2202,8 +2202,8 @@ Police	NNP
 said	VBD
 Bernard	NNP
 confessed	VBD
-to	IN
-detectives	NNS
+to	TO
+detectives	VBZ
 that	IN
 he	PRP
 had	VBD
@@ -2227,8 +2227,8 @@ children	NNS
 and	CC
 a	DT
 dog	NN
-that	IN
-occurred	VBN
+that	WDT
+occurred	VBD
 at	IN
 Hosanna	NNP
 Church	NNP
@@ -3003,7 +3003,7 @@ prospect	NN
 .	.
 "	NNP
 
-American	NNP
+American	JJ
 defence	NN
 chiefs	NNS
 hired	VBD
@@ -3017,8 +3017,8 @@ guns	NNS
 ,	,
 from	IN
 the	DT
-90s	NNS
-Bosnian	JJ
+90s	CD
+Bosnian	NNP
 war	NN
 ,	,
 to	IN
@@ -4658,13 +4658,21 @@ blood	NN
 pure	JJ
 .	.
 
-look	NN
-up	IN
-fumarase	NN
+look	VB
+up	RP
+fumarase	JJ
 deficiency	NN
 for	IN
 more	JJR
 info	NN
+.	.
+
+Also	RB
+look	VB
+up	RP
+the	DT
+kingston	NN
+family	NN
 .	.
 
 Also	RB
